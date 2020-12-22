@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Medicine Tracker</string>
+    <string name="btn1txt">Click!</string>
+    <string name="btn2txt">Dates</string>
+    <string name="btn3txt">Set Time</string>
+    <string name="text">Time set for 45 minutes</string>
+</resources>
